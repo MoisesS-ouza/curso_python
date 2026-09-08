@@ -36,10 +36,10 @@ Result: 2
 <br>
 <ol>
 To calculate the second check digit:
-<li>Separate the first 9 digits and the first check digit and multiply each of them, starting from 11:
- 1    3    9    1    4    2    4    9    7    2
-11  10   9    8    7    6    5    4    3    2
-11  30  81   8   28  12  20   36  21  4
+<li>Separate the first 9 digits and the first check digit and multiply each of them, starting from 11:<br>
+ 1    3    9    1    4    2    4    9    7    2<br>
+11  10   9    8    7    6    5    4    3    2<br>
+11  30  81   8   28  12  20   36  21  4<br>
 </li>
 <li>Same as the previous step to find the first check digit<br>
 11+30+81+8+28+12+20+36+21+4 = 251</li>
