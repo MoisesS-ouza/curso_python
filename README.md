@@ -32,16 +32,22 @@ Multiply the result by 10, divide it by 11 and then, find the remainder (Modulo)
 Result: 2
 </li>
 </ol>
+
+<br>
+<ol>
 To calculate the second check digit:
-1º Step: Separate the first 9 digits and the first check digit and multiply each of them, starting from 11:
+<li>Separate the first 9 digits and the first check digit and multiply each of them, starting from 11:
  1    3    9    1    4    2    4    9    7    2
 11  10   9    8    7    6    5    4    3    2
 11  30  81   8   28  12  20   36  21  4
-2º Step: Same as the previous step to find the first check digit
-11+30+81+8+28+12+20+36+21+4 = 251
-3º Step: Same as the previous step to find the first check digit
+</li>
+<li>Same as the previous step to find the first check digit
+11+30+81+8+28+12+20+36+21+4 = 251</li>
+<li>Same as the previous step to find the first check digit
 251 x 10 = 2510
 2510 % 11 = 2
-4º Step: The same as well
+</li>
+<li>The same as well</li>
+ </ol>
 Result: 2
 CPF: 139.142.497-22
