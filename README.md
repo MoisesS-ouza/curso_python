@@ -1,4 +1,4 @@
-<h1>Gerador e Validador de CPFs</h1>
+<h1>CPF generator and validator</h1>
 
 Two projects that I built as part of a Programming Course I'm taking on Udemy
 <br>
