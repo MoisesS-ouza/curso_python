@@ -1,4 +1,5 @@
 Two projects that I built as part of a Programming Course I'm taking on Udemy
+<br>
 Both use something called "CPF algorithm" (adapted for programming), which is something like this:
 To calculate the first check digit:
 1º Step: Separate the first 9 digits of the CPF and multiply each of them, starting from 10:
