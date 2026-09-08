@@ -1,6 +1,9 @@
+<h1>Gerador e Validador de CPFs</h1>
+
 Two projects that I built as part of a Programming Course I'm taking on Udemy
 <br>
 Both use something called "CPF algorithm" (adapted for programming), which is something like this:
+<br>
 To calculate the first check digit:
 1º Step: Separate the first 9 digits of the CPF and multiply each of them, starting from 10:
  1    3    9    1    4    2    4    9    7   (CPF numbers)
