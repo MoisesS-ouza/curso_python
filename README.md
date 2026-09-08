@@ -41,13 +41,13 @@ To calculate the second check digit:
 11  10   9    8    7    6    5    4    3    2
 11  30  81   8   28  12  20   36  21  4
 </li>
-<li>Same as the previous step to find the first check digit
+<li>Same as the previous step to find the first check digit<br>
 11+30+81+8+28+12+20+36+21+4 = 251</li>
-<li>Same as the previous step to find the first check digit
-251 x 10 = 2510
-2510 % 11 = 2
+<li>Same as the previous step to find the first check digit<br>
+251 x 10 = 2510<br>
+2510 % 11 = 2<br>
 </li>
-<li>The same as well</li>
+<li>The same as well<br></li>
  </ol>
 Result: 2
 CPF: 139.142.497-22
